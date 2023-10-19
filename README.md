@@ -18,7 +18,7 @@
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.1 kph</td><td>6.1 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13.3 kph</td><td>18 kph</td><td>25.6 kph</td><td>28.8 kph</td><td>31.3 kph</td><td>27.4 kph</td><td>25.6 kph</td><td>31 kph</td><td>31.3 kph</td><td>29.5 kph</td><td>27.7 kph</td><td>27.4 kph</td><td>27.7 kph</td><td>26.3 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>23 kph</td>
+        <td>15.1 kph</td><td>6.8 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13.3 kph</td><td>18 kph</td><td>25.6 kph</td><td>28.8 kph</td><td>31.3 kph</td><td>27.4 kph</td><td>25.6 kph</td><td>31 kph</td><td>31.3 kph</td><td>29.5 kph</td><td>27.7 kph</td><td>27.4 kph</td><td>27.7 kph</td><td>26.3 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>23 kph</td>
     </tr>
 </table>
 
